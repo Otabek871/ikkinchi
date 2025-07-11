@@ -1,0 +1,181 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+img{
+    width: 35px;
+    height: 35px;
+    border-radius: 40px;
+}
+nav{
+    width: 100%;
+    height: 42px;
+    background-color: rgb(230, 230, 230);
+    display: flex;
+    gap: 400px;
+    padding-left: 10%;
+    color: rgb(0, 0, 0);
+}
+.nav{
+    display: flex;
+    gap: 30px;
+    margin-top: 0.3%;
+}
+.oddiy{
+    display: flex;
+    gap: 30px;
+    margin-top: 0.5%;
+}
+section{
+    width: 100px;
+    height: 35px;
+    border: 2px solid rgba(255, 0, 0, 0);
+    color: rgb(0, 0, 0);
+    background-color: rgba(240, 248, 255, 0);
+}
+option{
+    width: 100px;
+    height: 35px;
+    color: rgb(0, 0, 0);
+}
+#Toshkent{
+    width: 100px;
+    height: 35px;
+    border: none;
+    background-color: rgba(240, 248, 255, 0);
+}
+main{
+    width: 100%;
+    height: 70px;
+    border: 1px solid rgba(255, 0, 0, 0);
+    display: flex;
+}
+.uzum{
+    display: flex;
+    gap: 15px;
+    margin-top: 1%;
+    margin-left: 2%;
+}
+.input{
+    display: flex;
+    margin-left: 20%;
+    margin-top: -47px;
+    border-radius: 25px;
+}
+form{
+    width: 700px;
+    height: 70px;
+    border: 1px solid rgba(0, 0, 0, 0);
+    margin-left: 10%;
+
+}
+.karta{
+    width: 100px;
+    height: 50px;
+    margin-top: 1%;
+}
+input{
+    width: 450px;
+    height: 50px;
+    
+}
+.input button{
+    width: 100px;
+    height: 50px;
+}
+.icon{
+    width: 35px;
+    height: 35px;
+    font-size: 15px;
+    display: flex;
+    gap: 10px;
+    margin-top: 1.5%;
+}
+.katta{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    gap: 30px;
+    border: 1px solid rgba(255, 0, 0, 0);
+    padding-top: 1%;
+    padding-left: 3%;
+}
+.kok{
+    width: 90%;
+    height: 500px;
+    border-radius: 30px;
+    margin-left: 5%;
+}
+.kal{
+    width: 90%;
+    height: 70px;
+    border: 1px solid rgba(255, 0, 0, 0);
+    margin-left: 5%;
+    display: flex;
+    gap: 200px;
+}
+.kol{
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(198, 205, 211);
+}
+.mashhur{
+    width: 100%;
+    height: 100px;
+    border: 1px solid rgba(255, 0, 0, 0);
+    display: flex;
+    gap: 30px;
+    padding-top: 2%;
+    padding-left: 2%;
+}
+.mashhur i{
+    margin-top: 1%;
+}
+.ulkan{
+    width: 100%;
+    height: 1500px;
+    border: 2px solid rgba(255, 0, 0, 0);
+}
+.mitti{
+    width: 100%;
+    height: 700px;
+    border: 2px solid rgba(255, 0, 0, 0);
+    display: flex;
+    gap: 15px;
+    /* padding-top: 30px; */
+    padding-left: 2%;
+}
+.tiny{
+    width: 19%;
+    height: 100%;
+    border: 1px solid rgba(255, 0, 0, 0);
+    /* border-radius: 35px; */
+}
+.tiny:hover{
+    cursor: pointer;
+}
+.tiny img{
+    width: 100%;
+    height: 100%;
+}
+.but{
+    width: 100%;
+    height: 100px;
+    border: 1px solid rgba(255, 0, 0, 0);
+    text-align: center;
+    padding-top: 2%;
+}
+.but button{
+    width: 60%;
+    height: 70%;
+    border-radius: 15px;
+    background-color: rgb(179, 184, 188);
+    border: none;
+}
+button:hover{
+    cursor: pointer;
+}

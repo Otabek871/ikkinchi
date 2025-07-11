@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: blueviolet;
+}
+.katta{
+    width: 400px;
+    height: 500px;
+    border: 1px solid rgba(255, 0, 0, 0);
+    margin-left: 30%;
+    margin-top: 5%;
+    display: flex;
+}
+.kichik{
+    width: 50%;
+    height: 100%;
+    border: 1px solid rgba(255, 0, 0, 0);
+    border-radius: 190px 0 90px 0;
+    background-color: yellow;
+}
+.kichik2{
+    width: 50%;
+    height: 100%;
+    border: 1px solid rgba(255, 0, 0, 0);
+    border-radius: 0 190px 0 90px;
+    background-color: yellow;
+}

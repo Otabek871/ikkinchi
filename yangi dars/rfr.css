@@ -1,0 +1,16 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Savate:ital,wght@0,200..900;1,200..900&family=Tulpen+One&display=swap');
+*{
+    text-decoration: underline;
+    text-decoration: overline;
+    text-decoration: line-through;
+    text-decoration: underline overline;
+}
+a{
+    text-decoration: none;
+}
+p{
+    white-space: nowrap;
+    text-shadow: 15px 15px 1px red;
+    font-family: Tulpen One ;
+}

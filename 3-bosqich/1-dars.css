@@ -1,0 +1,63 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.lol{
+    width: 80%;
+    height: 400px;
+    margin-left: 10%;
+    margin-top: 5%;
+    border: 1px solid rgba(255, 0, 0, 0);
+}
+.katta{
+    width: 100%;
+    height: 30%;
+    background-color: blue;
+}
+.qizil{
+    width: 100%;
+    height: 20px;
+    background-color: red;
+}
+.kata{
+        width: 100%;
+    height: 30%;
+    background-color: rgb(255, 255, 255);
+}
+.gizi{
+    width: 100%;
+    height: 20px;
+    background-color: rgb(255, 0, 0);
+    
+}
+.yashil{
+    width: 100%;
+    height: 30%;
+    background-color: green;
+}
+.ul{
+    width: 400px;
+    height: 100px;
+    border: 1px solid rgba(255, 0, 0, 0);
+    display: flex;
+}
+.moon{
+    font-size: 100px;
+    margin-left: 5%;
+}
+.lot{
+    margin-left: 10%;
+    gap: 10px;
+    margin-top: 5%;
+}
+.kal1{
+    margin-left: 40%;
+}
+.kal2{
+    margin-left: 20%;
+    margin-top: 5%;
+}
+.kal3{
+    margin-top: 5%;
+}

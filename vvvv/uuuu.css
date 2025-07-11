@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Savate:ital,wght@0,200..900;1,200..900&family=Tulpen+One&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.katta{
+    width: 400px;
+    height: 150vh;
+    background-color: bisque;
+    position: sticky;
+    top: 5%;
+    left: 5%;
+    
+}
+h1{
+    font-family: Tulpen one;
+}
+.child{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    position: sticky;
+    top: 10%;
+    left: 20%;
+    z-index: 1;
+}
+.child2{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    position: sticky;
+        top: 10%;
+    left: 20%;
+    z-index: 2;
+    transform: rotate(45deg);
+    transform-origin: top;
+}
